@@ -87,7 +87,7 @@ public class DumbConverter {
         } catch (Throwable ex) {
             System.err.println("Error while processing convertion.");
             ex.printStackTrace();
-            System.exit(1);
+            System.exit(1);;
         }
 
     }
