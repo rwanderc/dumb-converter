@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
  * DumbConverter is an application that allows you to convert units in WitsML
  * files, by replacing the String and explicitly applying a conversion factor.
  *
- * @author Roberto Wander <rwander at gmail.com>
+ * @author Wander Costa (www.wandercosta.com)
  */
 public class DumbConverter {
 
